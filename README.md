@@ -1,5 +1,5 @@
 {
-    "Sheet1": [
+    "products": [
         {
             "id": "1",
             "name": "Exciting Product 1",
@@ -161,4 +161,4 @@
             "ratings": "4"
         }
     ]
-}  
+}
